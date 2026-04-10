@@ -46,15 +46,6 @@ The ALU was verified using a testbench with multiple input combinations.
 * All arithmetic and logical operations were tested
 * Correct results observed in waveform simulation
 
- waveform screenshot:
-
-```
-## 📷 Waveform Output
-![Waveform1](sim/waveform1.png)
-![Waveform2](sim/waveform2.png)
-![Waveform3](sim/waveform3.png)
-![Waveform4](sim/waveform4.png)
-![Waveform5](sim/waveform5.png)
 ```
 
 ---
@@ -98,4 +89,4 @@ PRAGADEESH J S
 
 ##  Conclusion
 
-This project demonstrates the implementation of a basic ALU using structural modeling and verifies its functionality through simulation waveforms.The waveforms are in the sim folder
+This project demonstrates the implementation of a basic ALU using structural modeling and verifies its functionality through simulation waveforms.The waveforms screenshots are in the sim folder
