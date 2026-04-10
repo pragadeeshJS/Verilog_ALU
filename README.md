@@ -46,10 +46,7 @@ The ALU was verified using a testbench with multiple input combinations.
 * All arithmetic and logical operations were tested
 * Correct results observed in waveform simulation
 
-```
-
 ---
-
 ##  Note on Subtraction
 
 Subtraction is implemented using a **borrow-based subtractor**.
