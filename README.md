@@ -49,7 +49,13 @@ The ALU was verified using a testbench with multiple input combinations.
  waveform screenshot:
 
 ```
-![Waveform](sim/waveform1.png)
+## 📷 Waveform Output
+
+![Waveform1](sim/waveform1.png)
+![Waveform2](sim/waveform2.png)
+![Waveform3](sim/waveform3.png)
+![Waveform4](sim/waveform4.png)
+![Waveform5](sim/waveform5.png)
 ```
 
 ---
